@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2021, 2026
+
 variable "region" {
   type        = string
   description = "AWS Region"
